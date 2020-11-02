@@ -1,1 +1,1 @@
-# Simple-JavaScript-Calcultor-01
+Here i created a simple javascript calculator. 
